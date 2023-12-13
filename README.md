@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
 
-- 🔭 I’m currently working on project **API-JS**
+- 🔭 I’m currently working on personal project **React Native**
 
-- 🌱 I’m currently learning/improvement **JavaScript, Nest.js**
+- 🌱 I’m currently learning/improvement **PHP**
 
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **tl.dev@outlook.com**
