@@ -5,9 +5,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4545&center=true&vCenter=true&width=600&lines=🦀+Diving+deep+into+Rust+ecosystem;⚡+Performance+and+Safety+first;🚀+From+Web+to+Systems+Programming" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF4545&center=true&vCenter=true&width=600&lines=%F0%9F%A6%80+Diving+deep+into+Rust+Ecosystem;%E2%9A%A1+Performance+and+Safety+First;%F0%9F%9A%80+From+Web+to+System+Programming" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -211,7 +209,7 @@ graph LR
 
 <div align="center">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF4545&center=true&vCenter=true&width=600&lines=🚧+Currently+working+on+exciting+Rust+projects;📦+Public+repositories+coming+soon!" alt="Projects Status" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF4545&center=true&vCenter=true&width=600&lines=%F0%9F%9A%A7+Currently+working+on+exciting+Rust+projects;%F0%9F%93%A6+Public+repositories+coming+soon!" alt="Typing SVG" /></a>
 </div>
 
 <br>
